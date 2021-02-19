@@ -1,11 +1,29 @@
 {
     "Education": [
         "Ola High School 2022",
-        "Georgia State University A.S in Computer Science"
+        "Georgia State University A.S in Computer Science",
+        "Dev Mountain - Certifcate in Web Development"
+    ],
+    "Past Experience": [
+        "Hack Club - Hack Club Bank Operations | Remote",
+        "Pommells IT Consulting - IT Consultant | Remote and Onsite",
+        "We Code 2 - Program Director | Miami Gardens, FL",
+        "Broward County Public Schools - IT Intern | Pembroke Pines, FL > I designed the inventory management system for the entire district which stores thousands of devices"
     ],
     "Current Projects": [
         "I am the web developer for Dalia Quinones a Weston City Commision Candidate",
         "I am designing a decentralized portfolio verification for members of DAOs to showcase their work and for DAO core members to sign and verify contributions."
     ],
-    "Contact": ["chaleb@hey.com"]
+    "Contact": ["chaleb@hey.com"],
+    "Certifications": [
+        "Microsoft | Powerpoint 2013",
+        "Microsoft | Outlook 2016",
+        "Microsoft | Word 2016",
+        "Microsoft | Exce 2016",
+        "EC-Council | CEH",
+        "CompTIA | A+",
+        "CompTIA | Security+",
+        "CompTIA | Network+",
+        "Cisco Systems | CCNA"
+    ]
 }
