@@ -1,6 +1,6 @@
 {
   "name": "chaleb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "My JSON resume in progress",
   "main": "index.js",
   "scripts": {
