@@ -16,7 +16,7 @@ var resumePrompts = {
 };
 
 function main() {
-    console.log("Hello,My name is Chaleb(they/them) and welcome to my resume");
+    console.log("Hello,My name is Chaleb(they/them) and welcome to my resume. To view the PDF copy shoot me an email");
     resumeHandler();
 }
 
