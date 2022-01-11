@@ -6,14 +6,15 @@
         "Dev Mountain - Certifcate in Web Development"
     ],
     "Past Experience": [
-        "Hack Club - Hack Club Bank Operations | Remote",
+        "AT&T - Security Engineer Lead | Remote",
+        "Hack Club - Hack Club Bank Support Engineer | Remote",
         "Singularity Consulting - IT Consultant | Remote and Onsite",
         "We Code 2 - Program Director | Miami Gardens, FL",
         "Broward County Public Schools - IT Intern | Pembroke Pines, FL > I designed the inventory management system for the entire district which stores thousands of devices"
     ],
     "Current Projects": [
-        "I am the web developer for Dalia Quinones a Weston City Commission Candidate",
-        "I am designing a decentralized portfolio verification for members of DAOs to showcase their work and for DAO core members to sign and verify contributions."
+        "I am designing a decentralized portfolio verification for members of DAOs to showcase their work and for DAO core members to sign and verify contributions.",
+        "I'm currently building out a protocol called Can0py combining NFTs and DAOs to create an automated means of controlling natural assets such as forests."
     ],
     "Contact": ["chaleb@hey.com"],
     "Certifications": [
@@ -26,6 +27,15 @@
         "CompTIA | Security+",
         "CompTIA | Network+",
         "CompTIA | CASP+",
-        "Cisco Systems | CCNA"
+        "CompTIA | PenTest+",
+        "CompTIA | CySa+",
+        "Microsoft | Azure Security Engineer Associate",
+        "Cisco Systems | CCNA Routing and Switching",
+        "Cisco Systems | Security",
+        "Devo | Devo Certified Platform User",
+        "IASSC | Lean Six Sigma Black Belt",
+        "ISC2 | Systems Security Certified Practitioner",
+        "CrowdStrike Certified Falcon Administrator",
+        "CrowdStrike Certified Falcon Responder"
     ]
 }
