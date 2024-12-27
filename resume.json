@@ -1,0 +1,61 @@
+{
+    "Education": [
+        "Penn Foster High School",
+        "Dev Mountain - Certifcate in Web Development",
+        "A.S. in Biology, Gateway Community College"
+    ],
+    "Past Experience": [
+        "AT&T - Security Engineer Lead | Remote",
+        "Hack Club - Hack Club Bank Support Engineer | Remote",
+        "Singularity Consulting - Senior Security Architect | Remote and Onsite",
+        "We Code 2 - Program Director | Miami Gardens, FL",
+        "Broward County Public Schools - IT Intern | Pembroke Pines, FL > I designed the inventory management system for the entire district which stores thousands of devices"
+    ],
+    "Current Projects": [
+        "I am currently working on a project to improve patient outcomes by using machine learning to predict patient outcomes based on their medical history.",
+        "I am designing a decentralized portfolio verification for members of DAOs to showcase their work and for DAO core members to sign and verify contributions.",
+        "I'm currently building out a protocol called Can0py combining NFTs and DAOs to create an automated means of controlling natural assets such as forests."
+    ],
+    "Contact": ["chaleb@iamcpdev.me"],
+    "Foreign Languages": [
+        "English",
+        "Korean",
+        "Tagalog"
+    ],
+    "Programming Languages/Frameworks": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "C++",
+        "Java",
+        "Ruby",
+        "Rust",
+        "Go",
+        "React",
+        "Node.js",
+        "Astro",
+        "Sanity"
+    ],
+    "Certifications": [
+        "Microsoft | Powerpoint 2013",
+        "Microsoft | Outlook 2016",
+        "Microsoft | Word 2016",
+        "Microsoft | Excel 2016",
+        "EC-Council | CEH",
+        "CompTIA | A+",
+        "CompTIA | Security+",
+        "CompTIA | Network+",
+        "CompTIA | CASP+",
+        "CompTIA | PenTest+",
+        "CompTIA | CySa+",
+        "Microsoft | Azure Security Engineer Associate",
+        "Cisco Systems | CCNA Routing and Switching",
+        "Cisco Systems | Security",
+        "Devo | Devo Certified Platform User",
+        "IASSC | Lean Six Sigma Black Belt",
+        "ISC2 | Systems Security Certified Practitioner",
+        "ISC2 | Certified Information Systems Security Professional",
+        "CrowdStrike Certified Falcon Administrator",
+        "CrowdStrike Certified Falcon Responder"
+    ]
+}
